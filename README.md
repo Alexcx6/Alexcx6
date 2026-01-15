@@ -5,22 +5,6 @@
 - 🌱 I'm currently learning Python and Node
 - 👯‍♀️ I'm looking to collaborate on Web Projects
 - 📧 You hiring? mail me 👀 apina@unemi.edu.ec
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alexcx6&theme=outrun)](https://github.com/ryo-ma/github-profile-trophy)
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Alexcx6&theme=outrun&column=7" alt="alex-trophies" />
-    
-  </a>
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexcx6&theme=outrun" alt="alex-streak" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/Alexcx6">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alexcx6&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexcx6&layout=compact&langs_count=7&theme=outrun"/>
-  </a>
-</div>
 
 <div align="center">
   <br>
