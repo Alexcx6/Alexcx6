@@ -2,7 +2,6 @@
 
 - 💪 Front-end side
 - 🏗️ Currently working as freelancer
-- 🌱 I'm currently learning Python and Node
 - 👯‍♀️ I'm looking to collaborate on Web Projects
 - 📧 You hiring? mail me 👀 apina@unemi.edu.ec
 
