@@ -34,5 +34,4 @@
   <br>
   <a href="https://discordapp.com/users/553649468386443296/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="mailto:apina@unemi.edu.ec"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-badge&logo=linkedin&logoColor=white"></a>
 </div>
